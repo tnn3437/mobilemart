@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(184, 183, 188);
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10px;
+}
+.container {
+    width: 50%;
+    margin: 50px auto;
+    background-color: rgb(184, 183, 188);
+    padding: 20px;
+}
+
+#inventory {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
